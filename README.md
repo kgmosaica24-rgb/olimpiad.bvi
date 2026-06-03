@@ -1,4 +1,3 @@
-[olympiads_mobile (1).html](https://github.com/user-attachments/files/28554054/olympiads_mobile.1.html)
 <!DOCTYPE html>
 <html lang="ru">
 <head>
